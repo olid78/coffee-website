@@ -1,6 +1,6 @@
 ﻿# coffee-website
  
-  https://olid78.github.io/coffee-website/
+
 
 ✔ responsive header section with search box, navbar toggle and shopping cart box.
 ✔ responsive home section using css flexbox.
